@@ -1050,10 +1050,10 @@
   resolved "https://registry.yarnpkg.com/@chromaui/rrweb-snapshot/-/rrweb-snapshot-2.0.0-alpha.7-noAbsolute.2.tgz#20efa4772dc9ef7cac99f4d99ee191df879161a8"
   integrity sha512-vOVSOgfNyxomxm6ENMqm1C4rLkLLOlyEyhR5J2SKBALuFfuJHjhIqNLSOgqVRO9J3++AUOCktknyJ/F+mSvEfA==
 
-"@chromaui/test-archiver@0.0.27--canary.22.f2f627f.0":
-  version "0.0.27--canary.22.f2f627f.0"
-  resolved "https://registry.yarnpkg.com/@chromaui/test-archiver/-/test-archiver-0.0.27--canary.22.f2f627f.0.tgz#5dfff38555264792281a31c35cd0f61b2234c31e"
-  integrity sha512-02nr/PSfvrO/DyKQpTJGUndzGht05B/NMxZksRQjjIeQXO393VdxcnExYV65cdf596seHKXfdC8deSf7UmQcLA==
+"@chromaui/test-archiver@0.0.28--canary.22.b767c4e.0":
+  version "0.0.28--canary.22.b767c4e.0"
+  resolved "https://registry.yarnpkg.com/@chromaui/test-archiver/-/test-archiver-0.0.28--canary.22.b767c4e.0.tgz#029ede85aa4fe779d6e7e1c4ebf9f5e55c465c86"
+  integrity sha512-JoO6T2cwLZLf2UNdwUFDY4gXkM22tZAksjGy6UO46RN7SuuQauzRyNfsp5G9k7siCxp1Rll6enhK/jy2hpwrrg==
   dependencies:
     "@chromaui/rrweb-snapshot" "2.0.0-alpha.7-noAbsolute.2"
     "@segment/analytics-node" "^1.1.0"
